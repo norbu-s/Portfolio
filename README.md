@@ -17,4 +17,6 @@ https://gist.github.com/thomd/9220049
 https://getbootstrap.com/
 
 Github Repository: https://github.com/norbu-s/Portfolio
-Project Url: https://norbu-s.github.io/Portfolio/Index.html
+Index url: https://norbu-s.github.io/Portfolio/Index.html
+Contact url: https://norbu-s.github.io/Portfolio/Assets/pages/contact.html
+Portfolio url: https://norbu-s.github.io/Portfolio/Assets/pages/portfolio.html
