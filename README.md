@@ -16,4 +16,4 @@ https://www.w3schools.com/
 https://gist.github.com/thomd/9220049
 
 Github Repository: https://github.com/norbu-s/FirstPortfolio.github.io
-Project Url: https://norbu-s.github.io/FirstPortfolio.github.io/Index.html
+Project Url: https://norbu-s.github.io/Portfolio/Index.html
